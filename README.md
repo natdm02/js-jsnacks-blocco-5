@@ -41,3 +41,8 @@ La funzione ritornerà un nuovo array con i valori che hanno la posizione compre
 1. Definisco una variabile contenente una stringa.
 2. Dichiaro una funzione Reverse.
 3. Stampo.
+
+- JSnack 4
+1. Creo i 2 arrey.
+2. Verifico se gli array hanno la stessa lunghezza.
+3. Aggiungo l'elemento dall'array1/2
