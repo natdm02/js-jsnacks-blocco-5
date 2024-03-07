@@ -27,6 +27,6 @@ La funzione ritornerà un nuovo array con i valori che hanno la posizione compre
 
 - JSnack 2
 1. Creo un array per le zucchine più corte di 15cm.
-2. Creo un array per le zucchine più corte di 15cm.
+2. Creo un array per le zucchine più lunghe di 15cm.
 3. Calcolo della somma dei pesi delle zucchine con lunghezza < 15cm.
 4. Calcolo della somma dei pesi delle zucchine con lunghezza >= 15cm.
