@@ -46,3 +46,6 @@ La funzione ritornerà un nuovo array con i valori che hanno la posizione compre
 1. Creo i 2 arrey.
 2. Verifico se gli array hanno la stessa lunghezza.
 3. Aggiungo l'elemento dall'array1/2
+
+- JSnack 5
+1. Creo i 3 arrey
