@@ -48,4 +48,7 @@ La funzione ritornerà un nuovo array con i valori che hanno la posizione compre
 3. Aggiungo l'elemento dall'array1/2
 
 - JSnack 5
-1. Creo i 3 arrey
+1. Creo i 3 arrey.
+2. Creo funzione 'compilatore'.
+3. Utilizzo il metodo filter per creare un nuovo array.
+4. Stampo.
