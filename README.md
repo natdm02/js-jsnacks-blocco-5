@@ -19,3 +19,8 @@ un array e due numeri (“a” più piccolo di “b” e “b” grande al massi
 La funzione ritornerà un nuovo array con i valori che hanno la posizione compresa tra “a” e “b”
 
 ## SVOLGIMENTO:
+- JSnack 1
+1. Creo un array di zucchine.
+2. Creo la variabile e inizializzo a 0.  (per accumulare la somma dei pesi delle zucchine).
+3. Utilizzo il ciclo forEach.
+4. Calcolo e stampo il peso.
