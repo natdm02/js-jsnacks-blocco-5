@@ -24,3 +24,9 @@ La funzione ritornerà un nuovo array con i valori che hanno la posizione compre
 2. Creo la variabile e inizializzo a 0.  (per accumulare la somma dei pesi delle zucchine).
 3. Utilizzo il ciclo forEach.
 4. Calcolo e stampo il peso.
+
+- JSnack 2
+1. Creo un array per le zucchine più corte di 15cm.
+2. Creo un array per le zucchine più corte di 15cm.
+3. Calcolo della somma dei pesi delle zucchine con lunghezza < 15cm.
+4. Calcolo della somma dei pesi delle zucchine con lunghezza >= 15cm.
