@@ -49,12 +49,17 @@ let sum = 0;
 
 //3. Utilizzo il ciclo forEach.
 zucchine.forEach((zucchina)=>{
-// calcolo 
+// Calcolo 
   console.log(zucchina.peso)
   let peso = zucchina.peso
 
    sum += peso
 })
 
-// stampo il peso totale 
-console.log("Peso totale delle zucchine:", sum, "grammi");
+
+// Stampo 
+const risultatoElement = document.createElement('p');
+risultatoElement.textContent = `Il peso totale delle zucchine è: ${sum} grammi`;
+
+
+document.body.appendChild(risultatoElement);

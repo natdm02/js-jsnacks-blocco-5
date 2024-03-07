@@ -13,3 +13,8 @@ function Reverse(word){
 console.log(Reverse(parola))
 
 
+
+const outputContainer = document.getElementById('output-container');
+const risultato = document.createElement('p');
+risultato.textContent = `Stringa invertita: ${Reverse(parola)}`;
+outputContainer.appendChild(risultato);

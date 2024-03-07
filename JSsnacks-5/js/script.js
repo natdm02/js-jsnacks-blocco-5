@@ -22,3 +22,11 @@ function compilatore(array, firstNumber, secondNumber) {
 
     return secondArray;
 }
+
+const risultatoArray = compilatore(arrayy, firstNumber, secondNumber);
+
+
+const outputContainer = document.getElementById('output-container');
+const risultato = document.createElement('p');
+risultato.textContent = `Array compilato: [${risultatoArray.join(', ')}]`;
+outputContainer.appendChild(risultato);

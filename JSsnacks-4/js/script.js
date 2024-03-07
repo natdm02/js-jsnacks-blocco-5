@@ -34,3 +34,9 @@ function fusion(first_array, second_array) {
 // Stampo 
 const array_fuso = fusion(primo, secondo);
 console.log(array_fuso);
+
+
+const outputContainer = document.getElementById('output-container');
+const risultato = document.createElement('p');
+risultato.textContent = `Array fuso: [${array_fuso.join(', ')}]`;
+outputContainer.appendChild(risultato);
